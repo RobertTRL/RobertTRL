@@ -81,10 +81,10 @@ Trained at Moringa School and continuously sharpening my edge through hands-on b
 <!-- ## Featured Projects
 
 
-## Experience
+## Experience -->
 
 
-## Achievements -->
+## Achievements 
 
 <div align="center">
 
