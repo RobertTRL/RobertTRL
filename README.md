@@ -13,7 +13,7 @@
 </p>
 
 <p>
-  <a href="https://robertktoroitich/" target="_blank">
+  <a href="https://robertktoroitich.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   &nbsp;
