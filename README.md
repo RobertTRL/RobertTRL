@@ -185,5 +185,4 @@ Building:
 
 <div align="center">
 
-*Everyone pities the weak, jealousy you have to earn! - Arnold Schwarzenegger*<br>
-*The mind is everything, what you think is what you become* - Socrates
+*The mind is everything, what you think is what you become - Socrates* 
