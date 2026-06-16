@@ -44,7 +44,7 @@
 
 I'm **Robert Toroitich**, a Nairobi-based Robotics & ML Engineer and Full Stack Developer building at the intersection of intelligent systems and real-world hardware.
 
-My work spans the full engineering stack — from designing NLP pipelines and LLM-powered applications to shipping production-ready web infrastructure with React, Node.js, and PostgreSQL. I care about systems that don't just work in demos but hold up under real load, real users, and real constraints.
+My work spans the full engineering stack — from designing LLM-powered applications to shipping production-ready web infrastructure with React, Node.js, and PostgreSQL. I care about systems that don't just work in demos but hold up under real load, real users, and real constraints.
 
 As a Tech Fellow, I combine structured product thinking with the problem-solving discipline forged through several competitive programming problems across LeetCode and beyond. I don't just write code — I reason about it.
 
@@ -99,8 +99,9 @@ Trained at Moringa School and continuously sharpening my edge through hands-on b
 <div align="center">
 
 **Moringa School**
-<br>
-![Moringa School](https://img.shields.io/badge/Moringa_School-Software_Engineer-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+<br/>
+
+![Moringa School](https://img.shields.io/badge/Moringa_School-Software_Engineering-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 </div>
 
@@ -122,11 +123,16 @@ Trained at Moringa School and continuously sharpening my edge through hands-on b
 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=RobertTRL&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" />
 &nbsp;
+<br/><br/>
 <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=RobertTRL&theme=tokyonight&border_radius=10&hide_border=false" />
 
-<br/><br/>
+<br/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertTRL&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RobertTRL&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RobertTRL&theme=transparent&utc_offset=5.5" />
 
 </div>
 
