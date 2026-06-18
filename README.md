@@ -42,7 +42,7 @@
 
 ## About
 
-I'm **Robert Toroitich**, a Nairobi-based Robotics & ML Engineer and Full Stack Developer building at the intersection of intelligent systems and real-world hardware.
+I'm **Robert Toroitich**, a Nairobi-based Robotics & ML Enthusiast and Full Stack Developer building at the intersection of intelligent systems and real-world hardware.
 
 My work spans the full engineering stack — from designing LLM-powered applications to shipping production-ready web infrastructure with React, Node.js, and PostgreSQL. I care about systems that don't just work in demos but hold up under real load, real users, and real constraints.
 
