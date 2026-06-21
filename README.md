@@ -83,7 +83,9 @@ Trained at Moringa School and continuously sharpening my edge through hands-on b
 </p>
 
 ### Miscellaneous
-
+<p>
+  <img src="https://skillicons.dev/icons?i=illustrator,photoshop&theme=dark"/>
+</p>
 
 
 
