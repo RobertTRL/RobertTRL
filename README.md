@@ -36,10 +36,10 @@
 &nbsp;
 <img src="https://img.shields.io/github/stars/RobertTRL?style=flat-square&color=A78BFA&label=Stars"/>
 &nbsp;
-<a href="https://user-badge.committers.top/kenya/RobertTRL">
-    <img src="https://user-badge.committers.top/kenya/RobertTRL.svg" alt="committers.top badge">
-</a>
 
+<br/>
+
+<a href="https://user-badge.committers.top/kenya/RobertTRL"><img src="https://user-badge.committers.top/kenya/RobertTRL.svg" alt="committers.top badge"></a>
 </div>
 
 <br/>
