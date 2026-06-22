@@ -73,7 +73,7 @@ Trained at Moringa School and continuously sharpening my edge through hands-on b
 ### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,flask,postgresql,sqlite&theme=dark"/>
 </p>
 
 ### Cloud, DevOps & Tooling
