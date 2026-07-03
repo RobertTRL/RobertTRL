@@ -73,18 +73,18 @@ Trained at Moringa School and continuously sharpening my edge through hands-on b
 ### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,flask,postgresql,sqlite&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,postgresql,sqlite,supabase,mysql&theme=dark"/>
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vitest,jest,postman,bash,powershell,redis,linux&theme=dark"/>
 </p>
 
-### Miscellaneous
+### Libraries, IDE's and Miscellaneous Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=illustrator,photoshop&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=illustrator,photoshop,markdown,opencv,vscode&theme=dark"/>
 </p>
 
 
