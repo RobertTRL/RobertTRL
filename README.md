@@ -38,9 +38,16 @@
 &nbsp;
 
 <br/>
-&nbsp;
 
 <a href="https://user-badge.committers.top/kenya/RobertTRL"><img src="https://user-badge.committers.top/kenya/RobertTRL.svg" alt="committers.top badge"></a>
+
+<img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/639856611703259146?simple=true" alt="status" />
+<img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/639856611703259146" alt="playing" />
+<img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/639856611703259146" alt="vscode" />
+<a href="https://dev.discordprofiles.me/openspotify/639856611703259146">
+  <img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/639856611703259146" alt="spotify" />
+</a>
+
 </div>
 
 <br/>
