@@ -38,7 +38,7 @@
 &nbsp;
 
 <br/>
-
+<a href="https://wakatime.com/@ef5c90ef-a7d8-439b-9b9c-bb0e642ba9f8"><img src="https://wakatime.com/badge/user/ef5c90ef-a7d8-439b-9b9c-bb0e642ba9f8.svg" alt="Total time coded since May 29 2026" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://user-badge.committers.top/kenya/RobertTRL"><img src="https://user-badge.committers.top/kenya/RobertTRL.svg" alt="committers.top badge"></a>
 
 <a href="https://github.com/kittinan/spotify-github-profile">
