@@ -41,16 +41,12 @@
 
 <a href="https://user-badge.committers.top/kenya/RobertTRL"><img src="https://user-badge.committers.top/kenya/RobertTRL.svg" alt="committers.top badge"></a>
 
-<img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/639856611703259146?simple=true" alt="status" />
-<img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/639856611703259146" alt="playing" />
-<img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/639856611703259146" alt="vscode" />
-<a href="https://dev.discordprofiles.me/openspotify/639856611703259146">
-  <img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/639856611703259146" alt="spotify" />
+<a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qz4nka5pu1gateiua7ke7gs37&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
 </a>
-
 </div>
 
-<br/>
+
 
 ## About
 
