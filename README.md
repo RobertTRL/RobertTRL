@@ -134,19 +134,11 @@ Trained at Moringa School and continuously sharpening my edge through hands-on b
 ## GitHub Analytics
 
 <div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=RobertTRL&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" />
-&nbsp;
-<br/><br/>
 <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=RobertTRL&theme=tokyonight&border_radius=10&hide_border=false" />
-
-<br/>
-
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RobertTRL&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
-
-<br/>
-
+<img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=RobertTRL&show_icons=true&theme=tokyonight"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RobertTRL&theme=transparent&utc_offset=5.5" />
+<img src="https://wakatime.com/share/@RobertTRL/3b8aba57-4056-43b6-938a-a1ab76800f32.svg">
+&nbsp;
 
 </div>
 
