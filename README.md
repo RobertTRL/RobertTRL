@@ -42,9 +42,7 @@
 
 <a href="https://wakatime.com/@ef5c90ef-a7d8-439b-9b9c-bb0e642ba9f8"><img src="https://wakatime.com/badge/user/ef5c90ef-a7d8-439b-9b9c-bb0e642ba9f8.svg" alt="Total time coded since May 29 2026" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://user-badge.committers.top/kenya/RobertTRL"><img src="https://user-badge.committers.top/kenya/RobertTRL.svg" alt="committers.top badge"></a>
-<br/>
-<br/>
-<a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qz4nka5pu1gateiua7ke7gs37&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false"></a>
+
 </div>
 
 
