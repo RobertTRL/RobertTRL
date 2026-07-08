@@ -7,8 +7,8 @@
 <br/>
 
 <p>
-  <!-- <img src="https://img.shields.io/badge/Electrical and Electronics Engineering-JKUAT-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white"/>
-  &nbsp; -->
+  <img src="https://img.shields.io/badge/Jomo Kenyatta University of Agriculture and Technology-Electrical and Electronics Engineering-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/Location-Nairobi,_Kenya-6366F1?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
 
