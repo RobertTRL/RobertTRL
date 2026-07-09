@@ -25,9 +25,6 @@
     <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/RobertTRL" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=RobertTRL&color=7C3AED&style=flat-square&label=Profile+Views"/>
