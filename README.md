@@ -179,10 +179,6 @@ Building:
   <img src="https://img.shields.io/badge/LinkedIn-Robert_Toroitich-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/RobertTRL" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-RobertTRL-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
 <a href="https://robertktoroitich.com/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Live_Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
