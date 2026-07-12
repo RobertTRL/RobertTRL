@@ -120,7 +120,7 @@ Trained at Moringa School and continuously sharpening my edge through hands-on b
 <div align="center">
 
 <a href="https://leetcode.com/u/RobertTRL/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-10+_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-15+_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 &nbsp;
 
