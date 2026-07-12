@@ -98,7 +98,7 @@ Trained at Moringa School and continuously sharpening my edge through hands-on b
 
 <div align="center">
 
-| Recognition | Details |
+| Platform | Details |
 |---|---|
 | LeetCode | 15+ problems solved |
 
