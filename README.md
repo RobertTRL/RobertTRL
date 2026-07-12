@@ -100,7 +100,7 @@ Trained at Moringa School and continuously sharpening my edge through hands-on b
 
 | Recognition | Details |
 |---|---|
-| LeetCode | 10+ problems solved |
+| LeetCode | 15+ problems solved |
 
 </div>
 
