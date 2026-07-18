@@ -66,7 +66,7 @@ Trained at Moringa School and continuously sharpening my edge through hands-on b
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark"/>
 </p>
 
 ### Backend & Databases
