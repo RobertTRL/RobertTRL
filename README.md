@@ -93,43 +93,6 @@ Trained at Moringa School and continuously sharpening my edge through hands-on b
 
 ## Experience -->
 
-
-## Achievements 
-
-<div align="center">
-
-| Platform | Details |
-|---|---|
-| LeetCode | 15+ problems solved |
-
-</div>
-
-## Certifications
-
-<div align="center">
-
-**Moringa School**
-<br/>
-
-![Moringa School](https://img.shields.io/badge/Moringa_School-Software_Engineering-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
-</div>
-
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/RobertTRL/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-15+_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://wakatime.com/@RobertTRL" target="_blank">
-  <img src="https://img.shields.io/badge/WakaTime-85+_Hours-0000FF?style=for-the-badge&logo=wakatime&logoColor=black"/>
-</a>
-&nbsp;
-
-</div>
-
-
 ## GitHub Analytics
 
 <div align="center">
