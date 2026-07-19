@@ -143,27 +143,6 @@ Building:
 
 ```
 
-
-## Connect
-
-<div align="center">
-
-<a href="mailto:robertktoroitich@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-robertktoroitich@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/robert-toroitich-82b24639a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Robert_Toroitich-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://robertktoroitich.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Live_Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
 <div align="center">
 
 *The mind is everything, what you think is what you become - Socrates* 
