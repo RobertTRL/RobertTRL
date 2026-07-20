@@ -145,21 +145,8 @@ Building:
 
 <div align="center">
 
-<table>
-<tr>
-<td style="background-color:#1a1a2e; border: 2px solid #e0c097; border-radius: 18px; padding: 35px 45px;">
 
-<p style="color:#f5e6c8; font-family: Georgia, 'Times New Roman', serif; font-style: italic; font-size: 20px; text-align: center; margin: 0; line-height: 1.6;">
-"The mind is everything,<br>what you think is what you become."
-</p>
+"The mind is everything, what you think is what you become." - Socrates
 
-<p style="color:#e0c097; font-family: Georgia, serif; font-size: 14px; letter-spacing: 3px; text-align: center; margin-top: 18px;">
-— SOCRATES —
-</p>
 
-</td>
-</tr>
-</table>
-
-</div>
 
