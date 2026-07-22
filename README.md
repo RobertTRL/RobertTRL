@@ -50,8 +50,6 @@ I'm **Robert Toroitich**, a Nairobi-based Robotics & ML Enthusiast and Full Stac
 
 My work spans the full engineering stack — from designing LLM-powered applications to shipping production-ready web infrastructure with React, Node.js, and PostgreSQL. I care about systems that don't just work in demos but hold up under real load, real users, and real constraints.
 
-As a Tech Fellow, I combine structured product thinking with the problem-solving discipline forged through several competitive programming problems across LeetCode and beyond. I don't just write code — I reason about it.
-
 Trained at Moringa School and continuously sharpening my edge through hands-on builds, I'm currently pushing into Computer Vision, IoT-driven automation, and low-level systems with C/C++ and Rust — because the most interesting problems live where software meets the physical world.
 
 **Open to**: AI/ML Engineering · Full Stack Development · Robotics & Embedded Systems roles
